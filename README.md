@@ -1,0 +1,5 @@
+- 👋, I'm @TNARK
+- I'm interested in Python language for Data Science and Machine Learning
+- I'm learning about how to develop software using Python and apply it to AI projects
+- 📫 My email to contact: thaisribeiro.vitrine@gmail.com 
+- 💞️ Hope to learn and contribute as much as I can
